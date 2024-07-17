@@ -79,7 +79,7 @@ function ContactUsForm() {
                     Submit
                 </Button>
             </Form>
-            <Footer style={{ width: "100%" }} />
+            <Footer />
         </>
     );
 }

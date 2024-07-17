@@ -5,9 +5,7 @@ import DetailMuseum from './DetailMuseum';
 function AboutMuseum() {
     return (
         <>
-            <NavBar />
             <DetailMuseum />
-            <Footer />
         </>
     );
 }
